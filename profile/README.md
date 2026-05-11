@@ -1,89 +1,94 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/hexagon.svg" alt="SideSwipe Labs Logo" width="120" style="color: #e85d30;" />
 
-  <h1>SideSwipe Labs</h1>
+  <img src="https://sideswipelabs.com/assets/blog/sideswipelabs-wordmark.png" alt="SideSwipe Labs" width="320" />
 
-  <p><strong>Privacy-first software studio</strong></p>
-
-  <p>
-    We craft apps that put <strong>people first</strong>.
-  </p>
+  <p><strong>Software that respects you</strong></p>
 
   <p>
-    SideSwipe Labs is an independent software studio building premium mobile applications at the intersection of wellness, security, and human-centered design. Every product we ship is built with an uncompromising commitment to user privacy.
+    Independent software studio building premium mobile applications.<br />
+    Privacy is our architecture — not our marketing.
   </p>
 
   <br />
 
-  <a href="https://sideswipelabs.com"><strong>sideswipelabs.com</strong></a> · 
-  <a href="mailto:hello@sideswipelabs.com"><strong>Contact Us</strong></a>
+  <a href="https://sideswipelabs.com"><strong>Website</strong></a> ·
+  <a href="https://apps.apple.com/us/app/pressbook-albums-collages/id6761680350"><strong>Pressbook</strong></a> ·
+  <a href="https://sideswipelabs.com/bloomwell"><strong>BloomWell</strong></a> ·
+  <a href="mailto:hello@sideswipelabs.com"><strong>Contact</strong></a>
 
   <br />
 </div>
 
 ---
 
-## 🛡️ About Us
-**Technology should serve people, not exploit them.**
+## Why we exist
 
-SideSwipe Labs was founded on a simple conviction: the best software earns trust by design. In an industry where user data has become the default business model, we chose a different path — building premium applications that keep personal information exactly where it belongs.
+Open the App Store and scroll the privacy nutrition labels of any ten apps you use. The pattern repeats. **Data Linked to You**: usage, identifiers, location, sometimes contacts and health. **Data Used to Track You**: diagnostics, third-party advertising, audience inference. A 2024 Oxford Internet Institute study found that 87% of apps share user data with third parties.
 
-Our team combines deep expertise in mobile engineering, behavioral psychology, and applied cryptography to create products that are both genuinely useful and fundamentally respectful of the people who use them.
+That number is the reason SideSwipe Labs exists.
 
-Every application we build starts with the same question: how can we deliver maximum value while collecting minimum data? The answer is local-first architecture, on-device processing, and zero-knowledge protocols.
+We pick categories where the cloud-first default has done quiet damage to the people who use it, then rebuild the category with privacy as the architecture rather than the disclaimer. Compute runs on the Neural Engine and GPU you already own. Storage lives in the iOS sandbox under `FileProtectionType.complete`. No servers in the path of your data. No analytics SDKs. No ad networks. No required accounts.
 
----
-
-## 💎 Core Values
-
-- **🔒 Privacy by Default:** Zero data collection. No analytics trackers. No ad networks. Your data never leaves your device.
-- **❤️ Evidence-Based Design:** Every feature is grounded in peer-reviewed research and validated through rigorous user testing.
-- **👥 Human-Centered:** We design for real people with real needs. Accessibility and inclusivity are built in, not bolted on.
-- **⚡ Craft & Quality:** We ship fewer products so we can ship better ones. Every detail is considered, every interaction refined.
+The privacy guarantees aren't promises we'd have to keep — they're properties of a system that physically can't violate them.
 
 ---
 
-## 🚀 Capabilities
+## Products
 
-From concept to App Store, we handle every layer of the product stack with a focus on privacy, performance, and lasting engagement.
+<table>
+<tr>
+<td width="50%">
 
-- **📱 Mobile Development:** Native iOS applications built with Swift and SwiftUI, leveraging the latest platform capabilities for seamless user experiences.
-- **🔐 Privacy Engineering:** Zero-knowledge architectures and end-to-end encryption protocols that keep user data where it belongs — on their device.
-- **🎨 UX & Interface Design:** Research-driven interface design rooted in behavioral psychology, creating experiences that feel intuitive from the first touch.
-- **🧠 Habit Engineering:** Gamification and behavioral design grounded in clinical research to build lasting engagement and positive habit loops.
-- **🏥 Health & Wellness Tech:** Evidence-based wellness features combining traditional knowledge systems with modern clinical data for holistic health tracking.
-- **⚙️ Cryptography & Security:** Implementation of modern cryptographic protocols including hybrid ECDH key exchange and AES-GCM symmetric encryption.
+### 📸 Pressbook
+
+**Photo albums, on-device.**
+
+Turn your camera roll into magazine-quality photo albums in seconds. On-device AI curation, 152 hand-crafted templates, 600 DPI print-ready PDF export. Your photos never leave your device.
+
+<a href="https://apps.apple.com/us/app/pressbook-albums-collages/id6761680350"><strong>Download on the App Store →</strong></a>
+
+</td>
+<td width="50%">
+
+### 🌿 BloomWell
+
+**Women's wellness, upcoming.**
+
+Pelvic-floor training, cycle tracking, Ayurvedic nutrition, postpartum and menopause support. Built for categories where cloud-first defaults have been most visibly damaging.
+
+<a href="https://sideswipelabs.com/bloomwell"><strong>Learn more →</strong></a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Technology Stack
+## Our Commitments
 
-We leverage Apple's most powerful frameworks and modern cryptographic libraries to deliver secure, performant, native experiences.
+Every product decision either reinforces these or breaks them. There is no middle ground.
 
-- **Native iOS:** Swift & SwiftUI
-- **Persistence:** Core Data
-- **Encryption:** CryptoKit
-- **Health Data:** HealthKit
-- **Sync Layer:** CloudKit
-- **Instant Access:** App Clips
-- **Interface:** UIKit
-- **Reactive:** Combine
-- **Graphics:** Metal
-- **Data Viz:** Charts
+- **🔒 Privacy by default** — Zero data collection. No analytics SDKs. No ad networks. No required accounts. The starting position is that nothing about you leaves your device.
+- **🔬 Evidence-based design** — Features touching behavior or wellbeing are grounded in published research and validated through structured user testing.
+- **❤️ Human-centered** — Accessibility built from the first commit, not added during a pre-launch sprint. VoiceOver, Dynamic Type, reduced motion, color contrast — all standard.
+- **⚡ Craft and quality** — We ship fewer products on purpose. Every interaction reviewed, every animation tuned. Slower output, denser quality.
 
 ---
 
-## 🚦 Our Process
-A proven four-phase methodology that balances speed with rigor, ensuring every product we deliver meets our exacting standards.
+## What we don't do
 
-1. **Discovery:** Deep research into the problem space, user needs, and competitive landscape.
-2. **Design:** Wireframing, prototyping, and iterative design validation with real users.
-3. **Develop:** Clean, testable code with privacy-first architecture and modern frameworks.
-4. **Deliver:** Rigorous QA, App Store optimization, and continuous post-launch iteration.
+A studio is also defined by what it refuses.
+
+- **No growth-hacked acquisition loops** — No deceptive paywalls, no five-step cancellation flows, no "are you sure?" guilt screens
+- **No surprise paywalls** — Free tier large enough to judge honestly from inside the app
+- **No user analytics by default** — Where optional telemetry exists, consent defaults to off and all data is anonymized
+- **No time-on-app optimization** — We optimize for finished work. An album exported is a success
 
 ---
 
 <div align="center">
-  <p>Ready to build something meaningful?</p>
-  <a href="mailto:hello@sideswipelabs.com">Start a Conversation</a>
+  <p><strong>We don't want to know who you are.</strong></p>
+  <p>The simplest privacy guarantee is the one you don't have to read a policy to verify.</p>
+  <br />
+  <a href="mailto:hello@sideswipelabs.com"><strong>Start a conversation →</strong></a>
 </div>
