@@ -5,8 +5,7 @@
   <p><strong>Software that respects you</strong></p>
 
   <p>
-    Independent software studio building premium mobile applications.<br />
-    Privacy is our architecture — not our marketing.
+    We build privacy-first apps that protect your data by design. No tracking. No analytics. No compromises. Just beautifully crafted software that puts people before profits.
   </p>
 
   <br />
