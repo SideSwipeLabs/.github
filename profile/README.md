@@ -45,8 +45,9 @@ The privacy guarantees aren't promises we'd have to keep — they're properties 
 
 Turn your camera roll into magazine-quality photo albums in seconds. On-device AI curation, 152 hand-crafted templates, 600 DPI print-ready PDF export. Your photos never leave your device.
 
-<a href="https://apps.apple.com/us/app/pressbook-albums-collages/id6761680350"><strong>Download on the App Store →</strong></a>
 <a href="https://pressbook.app"><strong>Learn More</strong></a>
+
+<a href="https://apps.apple.com/us/app/pressbook-albums-collages/id6761680350"><strong>Download on the App Store →</strong></a>
 
 </td>
 <td width="50%">
